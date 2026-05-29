@@ -954,19 +954,19 @@ Add your screenshots below.
 
 ### IP Enrichment Execution
 
-<!-- Add screenshot of the IP execution here -->
+![n8n Workflow Overview](IPcheck.png)
 
 ### URL Enrichment Execution
 
-<!-- Add screenshot of the URL execution here -->
+![n8n Workflow Overview](checkURL.png)
 
 ### Domain Enrichment Execution
 
-<!-- Add screenshot of the domain execution here -->
+![n8n Workflow Overview](checkDomain.png)
 
 ### Threat Intel Report Sheet
 
-<!-- Add screenshot of the Google Sheets / Excel report here -->
+![n8n Workflow Overview](pipeline.png)
 
 ---
 
